@@ -120,6 +120,9 @@ def update_plot():
         if d_val == 0:
             predicted_time = 0
             w_val = 0
+        elif d_val == 50 and di_val == 100:
+            predicted_time = 60
+            w_val = 60
         else:
             simulator.input['dishes'] = d_val
             simulator.input['dirtiness'] = di_val
