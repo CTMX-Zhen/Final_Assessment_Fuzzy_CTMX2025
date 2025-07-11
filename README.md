@@ -51,15 +51,15 @@
 ## 4. Create fuzzy membership for all input and output
 - Membership_Dishes
 
-![Membership_Dishes](data\\1.membership_dishes.png)
+![Membership_Dishes](data/1.membership_dishes.png)
 
 - Memebership_Dirtiness
 
-![Memebership_Dirtiness](data\\1.membership_dishes.png)
+![Memebership_Dirtiness](data/2.membership_dirtiness.png)
 
 - Membership_Wash Time
 
-![Membership_Wash Time](data\\1.membership_dishes.png)
+![Membership_Wash Time](data/3.membership_wash_time.png)
 
 ## 5. Create at least 10 fuzzy rules with mix of AND and OR operators
 ### TOTAL: 10 rules
@@ -111,15 +111,15 @@
 # Result:
 1. Wash Time vs Dirtiness.png
 
-![Wash Time vs Dirtiness](data\\4.WashTimevsDirtiness.png)
+![Wash Time vs Dirtiness](data/4.WashTimevsDirtiness.png)
 
 2. Fuzzy Inference_Wash Time
 
-![Fuzzy Inference_Wash Time](data\\7.FuzzyInference_WashTime.png)
+![Fuzzy Inference_Wash Time](data/7.FuzzyInference_WashTime.png)
 
 3. 3D LinePlot_Wash vs Dirtiness.png
 
-![3D LinePlot_Wash vs Dirtiness](data\\9.3DLinePlot_WashvsDirtiness.png)
+![3D LinePlot_Wash vs Dirtiness](data/9.3DLinePlot_WashvsDirtiness.png)
 
 *and more can view at the data folder 
 
