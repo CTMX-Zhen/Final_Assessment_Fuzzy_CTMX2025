@@ -175,7 +175,7 @@ if __name__ == "__main__":
     # Set up debluring method for Mandini FIS
     wash_time.defuzzify_method = 'centroid'
 
-    # Combine the 10 rules with Mamdini FIS
+    # Combine the 10 rules with Mamdani FIS
     washing_ctrl = ctrl.ControlSystem(rules)
 
     # Create a simulator to test the result
